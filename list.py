@@ -35,10 +35,10 @@ def lihat():
 	
 def menu():
 	print "*" * 100
-	print "1. Tambah Data Pegawai \n"
-	print "2. Lihat Data Pegawai \n"
-	print "3. Hapus Data Pegawai \n"
-	print "4. Exit \n"
+	print "1. Tambah Data diri Pegawai \n"
+	print "2. Lihat Data diri Pegawai \n"
+	print "3. Hapus Data diri Pegawai \n"
+	print "4. Keluar \n"
 
 	pilih = input("Masukkan Pilihan (1/2/3/4)  = ")
 	if(pilih == 1):
